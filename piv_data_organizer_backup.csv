@@ -1,0 +1,88 @@
+file_name,parent_folder,A,freq,num_grids,grid_spacing,grid_pos,origin_y,origin_x,need2rotate,use_now
+,,,,,,,,,,
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A05mm_f05Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,5,5,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A05mm_f08Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,5,8,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A05mm_f10Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,5,10,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A10mm_f05Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,10,5,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A10mm_f08Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,10,8,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A10mm_f10Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,10,10,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A15mm_f05Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,15,5,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A15mm_f08Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,15,8,4,10,high,0.05,,1,0
+PIV_sv_vp_makro100mmzeiss_X0mm_Y15mm_fps10k_A15mm_f10Hz_grid3x4_5cycles_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_A,15,10,4,10,high,0.05,,1,0
+,,,,,,,,,,
+PIV_svCloseUpBottomThird_makro100mmzeiss_X0mm_Y05mm_fps2500_A15mm_f05Hz_grid3x4_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_B,15,5,4,10,high,0.15,,0,0
+PIV_svCloseUpBottomThird_makro100mmzeiss_X0mm_Y05mm_fps2500_A15mm_f10Hz_grid3x4_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_B,15,10,4,10,high,0.15,,0,0
+PIV_svCloseUpCenterThird_makro100mmzeiss_X0mm_Y15mm_fps2500_A15mm_f05Hz_grid3x4_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_B,15,5,4,10,high,0.25,,0,0
+PIV_svCloseUpCenterThird_makro100mmzeiss_X0mm_Y15mm_fps2500_A15mm_f10Hz_grid3x4_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170816\Cines_B,15,10,4,10,high,0.25,,0,0
+,,,,,,,,,,
+PIV_sv_makro100mmzeiss_fps10k_A05mm_f05Hz_grid3x4x6_5cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170817,5,5,4,6,high,0.05,,1,0
+PIV_sv_makro100mmzeiss_fps10k_A10mm_f05Hz_grid3x4x6_5cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170817,10,5,4,6,high,0.05,,1,0
+PIV_sv_makro100mmzeiss_fps10k_A10mm_f10Hz_grid3x4x6_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170817,10,10,4,6,high,0.05,,1,0
+,,,,,,,,,,
+PIV_sv_mz100mm_fps10k_A05mm_f05Hz_grid3Thick3x2x10_10cycles,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170817,5,5,2,10,high,0.05,,1,0
+,,,,,,,,,,
+PIV_sv_fps2k_grid3x3x10_withCap_Cam_20861_Cine2,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170917,2,5,3,10,low,0,,1,0
+PIV_sv_fps2k_grid3x3x10_withCap_Cam_20861_Cine1,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170917,5,5,3,10,low,0,,1,0
+PIV_sv_fps2k_grid3x3x10_withCap_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170917,10,5,3,10,low,0,,1,0
+PIV_sv_fps2k_grid3x3x10_withCap_Cam_20861_Cine4,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170917,2,10,3,10,low,0,,1,0
+PIV_sv_fps2k_grid3x3x10_withCap_Cam_20861_Cine5,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170917,5,10,3,10,low,0,,1,0
+,,,,,,,,,,
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine7,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,3,5,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine8,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,5,5,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine9,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,8,5,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine10,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,10,5,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,1,10,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine1,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,2,10,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine4,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,3,10,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine5,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,4,10,3,10,low,0.25,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_topRegion_Cam_20861_Cine6,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170918,5,10,3,10,low,0.25,,0,0
+,,,,,,,,,,
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine7,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,3,5,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine8,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,5,5,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine9,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,8,5,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine10,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,10,5,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,1,10,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine1,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,2,10,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine4,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,3,10,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine5,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,4,10,3,10,low,0.15,,0,0
+PIV_sv_fps4k_grid3x3x10_withCap_midRegion_Cam_20861_Cine6,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170921,5,10,3,10,low,0.15,,0,0
+,,,,,,,,,,
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine1,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,1,10,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine2,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,2,10,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,4,10,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine4,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,10,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine5,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,5,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine6,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,10,5,,10,low,0.07,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine7,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,1,10,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine8,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,2,10,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine9,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,4,10,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine10,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,10,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine11,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,5,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine12,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,10,5,,10,low,0.17,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine13,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,1,10,,10,low,0.27,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine14,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,2,10,,10,low,0.27,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine15,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,4,10,,10,low,0.27,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine16,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,10,,10,low,0.27,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine17,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,5,5,,10,low,0.27,-0.06,0,0
+PIV_sv_semiCloseUp_fps2k_grid3x3x10_withCap_Cam_20861_Cine18,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20170927,10,5,,10,low,0.27,-0.06,0,0
+,,,,,,,,,,
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine1,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,2,5,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine2,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,4,5,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine3,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,6,5,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine4,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,8,5,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine5,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,10,5,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine6,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,1,10,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine7,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,2,10,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine8,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,4,10,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine9,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,6,10,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine10,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,8,10,,20,,0.165,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine11,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,2,5,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine12,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,4,5,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine13,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,6,5,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine14,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,8,5,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine15,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,10,5,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine16,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,1,10,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine17,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,2,10,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine18,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,4,10,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine19,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,6,10,,20,,0.089,-0.075,0,1
+PIV_sv_fps2k_grid3tx2x20_noCap_Cam_20861_Cine20,E:\Experiments_Stephane\Grid column\PIV_measurements\Hollow_grid_3\20171015,8,10,,20,,0.089,-0.075,0,1
